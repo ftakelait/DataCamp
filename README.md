@@ -3,4 +3,4 @@ DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on top
 
 **These are the courses I have already completed.**
 
-These courses are set up to actually run locally (mapped to the datasets).
+_Note:_ These courses are set up to actually run locally (mapped to the datasets).
